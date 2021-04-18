@@ -1,6 +1,6 @@
 <br />
 <p align="center">
-  <a href="https://github.com/github_username/repo_name">
+  <a href="https://github.com/diegofonseca/grpc-example">
     <img src="https://grpc.io/img/logos/grpc-logo.png" alt="Logo" width="80">
   </a>
 
